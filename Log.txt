@@ -1,0 +1,6 @@
+FEED MONEY:              $2.00	$2.00
+FEED MONEY:              $5.00	$7.00
+Heavy C4                 1.50	$5.50
+Heavy C4                 1.50	$4.00
+Crunchie B4              1.75	$2.25
+GIVE CHANGE:             $2.25	$0.00
